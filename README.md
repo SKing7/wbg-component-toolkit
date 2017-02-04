@@ -7,7 +7,7 @@
 `npm install wbg-component-toolkit -g`
 
 ##创建新组件开发环境
-`wbg-component-toolkit --componentName xxxx`
+`wbg-ctoolkit --componentName xxxx`
 `cd xxxx`
 `npm install`
 `bower install`

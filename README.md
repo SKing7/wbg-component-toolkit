@@ -1,4 +1,4 @@
-# Component-DEMO
+# Component-starter-toolkit
 
 微办公组件开发启动工具
 

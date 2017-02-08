@@ -19,5 +19,10 @@
     "jquery": "2.0.3",
     "bootstrap-additions": "0.2.3",
     "angular-motion": "0.4.3"
+  },
+  "resolutions": {
+     "bootstrap": "3.1.1",
+     "jquery": "2.0.3",
+     "angular-motion": "0.4.3"
   }
 }

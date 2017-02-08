@@ -1,6 +1,6 @@
 {
   "name": "wbg-component-toolkit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "common component starter toolkit",
   "bin": {
     "wbg-ctoolkit": "index.js"

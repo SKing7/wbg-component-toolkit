@@ -33,3 +33,11 @@
 ## 组件在项目中应用
 
 `npm install [component-name]`
+
+## 特性
+
+- 支持es6
+- 使用sass管理css
+- scoped css
+- 使用webpack对css，html，js进行压缩打包；
+

@@ -12,9 +12,7 @@
 
 `cd xxxx`
 
-`npm install`
-
-`bower install`
+`npm install & bower install`
 
 ## Develop Component 
 
@@ -40,4 +38,5 @@
 - 使用sass管理css
 - scoped css
 - 使用webpack对css，html，js进行压缩打包；
+- test环境模拟微办公主站环境，内置bootstrapdeng，详见生成后项目下的`bower.json`
 

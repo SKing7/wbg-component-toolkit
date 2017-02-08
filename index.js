@@ -32,11 +32,11 @@ function initComponentName(name) {
     }
 }
 if (!componentName) {
-    console.log('请输入组件名称,格式：name:[/^[-\\da-zA-Z]+$/]'.error);
+    console.log('请输入组件名称,格式：--name [/^[-\\da-zA-Z]+$/]'.error);
     return;
 }
 if (!/^[-\da-zA-Z]+$/.test(componentName)) {
-    console.log('格式错误，格式：/^[-\\da-zA-Z]+$/'.error);
+    console.log('name 参数格式错误，格式：/^[-\\da-zA-Z]+$/'.error);
     return;
 }
 componentName = initComponentName(componentName);

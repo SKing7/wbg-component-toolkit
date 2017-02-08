@@ -38,5 +38,5 @@
 - 使用sass管理css
 - scoped css
 - 使用webpack对css，html，js进行压缩打包；
-- test环境模拟微办公主站环境，内置bootstrapdeng，详见生成后项目下的`bower.json`
+- test环境模拟微办公主站环境，内置angular,bootstrap,angular-xxx等，列表详见生成的项目下的`bower.json`
 

@@ -50,6 +50,9 @@ module.exports =  {
                 test: /\.scss$/,
                 loaders: ["style", "css?localIdentName=c-" + configJson.name + "-[hash:base64:8]", "sass"]
             }, {
+                test: /(\.png|\.jpg|\.jpeg)$/,
+                loader: 'url?limit=8000&name=./images/[name].[ext]'
+            }, {
                 test: /\.js$/,
                 loader: 'babel-loader',
                 exclude: /node_modules/,
